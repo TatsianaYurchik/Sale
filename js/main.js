@@ -1,4 +1,4 @@
-const endDate = new Date ('Jul 01, 2022  00:00:00.000 GMT+03:00').getTime()
+const endDate = new Date ('Aug 01, 2022  00:00:00.000 GMT+03:00').getTime()
 
 
 let countDown = setInterval ( function (){
