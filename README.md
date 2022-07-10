@@ -1,2 +1,3 @@
-# Sale (Pure JavaScript Countdown Timer)
+# Sale 
+Pure JavaScript Countdown Timer
 
